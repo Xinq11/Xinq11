@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Xinq</h1>
 <h3 align="center">An ordinary student</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Golang**
 - 🏃  Basketball 
 
 <h3 align="left">Languages and Tools:</h3>
