@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Xinq</h1>
-<h3 align="center">An ordinary student</h3>
+<!-- <h3 align="center">An ordinary student</h3> -->
 
 - 🌱 I’m currently learning **Golang**
 - 🏃  Basketball 
